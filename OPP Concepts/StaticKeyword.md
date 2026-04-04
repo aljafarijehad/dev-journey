@@ -122,7 +122,7 @@ int Test::count = 0;
 
 ```cpp
 void show() {
-    cout << value; // ERROR
+    cout << count; // ERROR
 }
 ```
 
